@@ -1,6 +1,6 @@
 {
   "name": "light-promisify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert any callback function to Promise with the node-style callback (error-first pattern).",
   "main": "index.js",
   "scripts": {
