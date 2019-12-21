@@ -1,0 +1,25 @@
+{
+  "name": "light-promisify",
+  "version": "1.0.0",
+  "description": "Convert any callback function to Promise with the node-style callback (error-first pattern).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babak-Gholamzadeh/light-promisify.git"
+  },
+  "keywords": [
+    "promise",
+    "promisify",
+    "callback",
+    "async"
+  ],
+  "author": "Babak Gholamzadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babak-Gholamzadeh/light-promisify/issues"
+  },
+  "homepage": "https://github.com/Babak-Gholamzadeh/light-promisify#readme"
+}
