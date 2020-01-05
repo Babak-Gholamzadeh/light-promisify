@@ -1,6 +1,8 @@
 # light-promisify
 Convert any callback function to Promise with the node-style callback (error-first pattern)
 
+[npm package](https://www.npmjs.com/package/light-promisify)
+
 ### Installation
 ```
 npm i light-promisify
