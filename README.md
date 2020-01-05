@@ -10,10 +10,10 @@ npm i light-promisify
 ```javascript
 const promisify = require('light-promisify');
 
-// Convert fs.readFile or fs.writeFile which work with callback, to promise
+// Convert fs.readFile or fs.writeFile (which work with callback) to promise
 const fs = require('fs');
 const writeFile = promisify(fs.writeFile);
-const writeFile = promisify(fs.readFile);
+const readFile = promisify(fs.readFile);
 
 // Use them in an async/await function
 const operationOnFiles = async () => {
